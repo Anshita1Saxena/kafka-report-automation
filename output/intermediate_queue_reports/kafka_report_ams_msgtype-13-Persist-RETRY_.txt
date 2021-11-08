@@ -1,0 +1,4 @@
+Group           Topic                          Pid Offset          logSize         Lag             Owner
+persistRetryConsumerGroupName13 persistRetryTopicName13     0   0           0           0               none
+persistRetryConsumerGroupName13 persistRetryTopicName13     1                                           none
+persistRetryConsumerGroupName13 persistRetryTopicName13     2                                           none

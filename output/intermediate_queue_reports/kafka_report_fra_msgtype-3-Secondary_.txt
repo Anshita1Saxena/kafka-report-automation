@@ -1,0 +1,4 @@
+Group           Topic                          Pid Offset          logSize         Lag             Owner
+transmitConsumerGroupName3 transmitTopicName3     0   109910196           109910196           0               none
+transmitConsumerGroupName3 transmitTopicName3     1   109910196           109910196           0               none
+transmitConsumerGroupName3 transmitTopicName3     2   109910196           109910196           0               none

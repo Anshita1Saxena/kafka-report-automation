@@ -1,0 +1,11 @@
+Group           Topic                          Pid Offset          logSize         Lag             Owner
+metricsConsumerGroupName metricsTopicName        0   255587941       255587941       0               none
+metricsConsumerGroupName metricsTopicName        1   255588202       255588202       0               none
+metricsConsumerGroupName metricsTopicName        2   255585939       255585939       0               none
+metricsConsumerGroupName metricsTopicName        3   255587887       255587887       0               none
+metricsConsumerGroupName metricsTopicName        4   255588214       255588215       1               none
+metricsConsumerGroupName metricsTopicName        5   255586039       255586039       0               none
+metricsConsumerGroupName metricsTopicName        6   255587892       255587892       0               none
+metricsConsumerGroupName metricsTopicName        7   255588237       255588237       0               none
+metricsConsumerGroupName metricsTopicName        8   255585848       255585848       0               none
+metricsConsumerGroupName metricsTopicName        9   255587925       255587925       0               none

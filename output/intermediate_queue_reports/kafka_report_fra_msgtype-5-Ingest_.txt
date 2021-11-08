@@ -1,0 +1,4 @@
+Group           Topic                          Pid Offset          logSize         Lag             Owner
+ingestConsumerGroupName5 ingestTopicName5     0   109910196           109910196           0               none
+ingestConsumerGroupName5 ingestTopicName5     1   109910196           109910196           0               none
+ingestConsumerGroupName5 ingestTopicName5     2   109910196           109910196           0               none

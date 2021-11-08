@@ -1,0 +1,21 @@
+
+Hi All,
+
+Please find the overall consolidated status of all 13 message types for:
+
+1. Persist Main Queue
+
+2. Transmit Main Queue
+
+3. Persist Retry Queue
+
+4. Pre-Transmit Retry Queue
+
+5. Transmit Retry Queue
+
+6. MetricsDB Queue
+
+
+Thanks & Regards 
+
+IBM BAT Support

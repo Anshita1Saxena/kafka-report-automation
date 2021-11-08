@@ -1,0 +1,4 @@
+Group           Topic                          Pid Offset          logSize         Lag             Owner
+transmitRetryConsumerGroupName4 transmitRetryTopicName4     0   0           0           0               none
+transmitRetryConsumerGroupName4 transmitRetryTopicName4     1                                           none
+transmitRetryConsumerGroupName4 transmitRetryTopicName4     2                                           none
