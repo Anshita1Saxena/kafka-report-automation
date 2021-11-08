@@ -39,6 +39,7 @@ Entry point script is `lag_report.py` which calls `ExcelReportGenerateMultipleQu
 
 ## Working Details
 This is configured as a job in crontab which is scheduled to run every hour for the collection of metrics, is used to deliver reports every day via email, and is used to upload the excel sheets to Slack every 2 hours.
+
 To run this code:
 
 `python kafka-report-automation/lag_report.py kafka-report-automation/conf/lag_report.ini`
