@@ -49,3 +49,11 @@ This project runs in Production. The data which is provided here is modified to 
 1. Integration with Kafka.
 2. Integration with Slack and Email.
 3. Organization of information via Excel sheets.
+
+## Demo Screenshots
+1. Reports Uploaded on Slack:
+![Slack Screenshot](https://github.com/Anshita1Saxena/kafka-report-automation/blob/main/demo-image/Slack%20Screenshot.JPG)
+2. Reports sent via Mail:
+![Email Screenshot](https://github.com/Anshita1Saxena/kafka-report-automation/blob/main/demo-image/Mail%20Screenshot.JPG)
+3. Report Screenshot:
+![Report Screenshot](https://github.com/Anshita1Saxena/kafka-report-automation/blob/main/demo-image/Report%20Snapshot.JPG)
