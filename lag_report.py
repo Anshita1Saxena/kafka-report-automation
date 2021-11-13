@@ -8,7 +8,7 @@ __author__ = "Anshita Saxena"
 __copyright__ = "(c) Copyright IBM 2019"
 __credits__ = ["BAT DMS IBM Team"]
 __maintainer__ = "Anshita Saxena"
-__email__ = "anshsa33@in.ibm.com"
+__email__ = "anshita333saxena@gmail.com"
 __status__ = "Production"
 
 # Library for delegating tasks to OS (Operating System)
